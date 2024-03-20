@@ -1,4 +1,4 @@
-run the installer on Linux
+To run the installer on Linux
 
 ```
 sudo sed -i 's/\r$//' ./openvpn-install.sh
